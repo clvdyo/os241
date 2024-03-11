@@ -1,10 +1,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W01 20 L00 General, etc.
+ZCZC W01 60 L11 Weekly Assignments #1: Setup a Virtual Debian Guest, import OVA file
+ZCZC W01 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 30 L12 Assignment #02: The ATM Way: GSGS and Read
+ZCZC W01 60 L13 Assignment #03: LINKS/
+ZCZC W01 120 L64 Helping a friend, Dony (OS related problem)
+ZCZC W01 45 L14 Assignment #04 Finishing 
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 60 L10 Weekly Assignments
-ZCZC W01 20 L00 General, etc.
-ZCZC W01 60 L11 Weekly Assignments #1: Setup a Virtual Debian Guest
-ZCZC W01 60 L06 References/Books/Documents/Browsing/GSGS related
