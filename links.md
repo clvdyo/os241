@@ -21,4 +21,4 @@ These commands will help you list PCI devices, view information about your CPU, 
 
 * [Chmod Command in Linux](https://www.howtogeek.com/437958/how-to-use-the-chmod-command-on-linux/)<br>
 Found this website really help me to control file permissions in my debian.
-There are several other commands to that're very helpful in  Linux
+There are several explanations of other commands to that're very helpful in  Linux
