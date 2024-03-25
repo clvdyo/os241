@@ -25,3 +25,10 @@ There are several explanations of other commands to that're very helpful in  Lin
 
 * [Nano Documentation](https://www.nano-editor.org/docs.php)<br>
 Help to understand nano editor. There are also shortcuts to edit files more easily and quickly.
+
+* [Linux Command Line and Shell Scripting Bible](http://www.cherrycreekeducation.com/bbk/b/Wiley_Linux_Command_Line_and_Shell_Scripting_Bible_3rd_Edition_111898384X.pdf)<br>
+Great comprehensive guide to shell scripting. A complete guide providing detailed instruction and expert advice working within this aspect of Linux.<br>
+> Write simple script utilities to automate tasks<br>
+> Understand the shell, and create shell scripts<br>
+> Produce database, e-mail, and web scripts<br>
+> Study scripting examples ranging from basic to advanced<br>
